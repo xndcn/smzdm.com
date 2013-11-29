@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 29 Nov 2013 21:48:58", 
+  "link": "http://www.smzdm.com/youhui/368235", 
+  "description": "<p>合勤科技ZyXEL来自台湾，是一家1989年成立的网络设备提供商，产品以无线/有线路由设备著称，但其面向家庭和个人应用也推出了多款NAS存储设备。这款NSA320推出于2011年初，是一款经济型的双盘位NAS，该款产品官网链接在此。 参数方面，处理器采用了MARVELL 的Feroceon 88FR131 v1，ARM v5架构，主频1.2GHz，这款处理器也应用于Buffalo、Synology等多个品牌NAS产品。512MB RAM和128MB FLASH的配置也算中规中矩。接口包括3个USB2.0和1个千兆网卡。双3.5英寸盘位支持RAID0和RAID1，根据官方的说法最大支持4TB容量（2*2TB），有评测显示在RAID0/1的状态下，大文件的拷贝速度约为30MB/S，小文件能达到10MB/S。&#160;功能方面，uPnP、iTunes、SqueezeCenter、Samba/FTP、PHP、eMule/BitTorrent/FTP/HTTP、DLNA等功能均有支持。熟悉嵌入式linux系统的用户可以研究一下这个连接，通过telnet获得root权限之后，这台NAS摇身一变成为轻量级Linux服务器，可玩性大大提高。 Rakuten目前特价59.99美元，历史新低，发货重量4磅，使用信用卡通过转运公司来购买折合人民币约520元（未包含关税），具体购买方法可参考此海淘攻略。电源方面输出为19V2A，支持全球电压。520元价位的NAS能有如此指标算是不错了。</p><p><a href=\"http://www.smzdm.com/youhui/368235\">ZyXEL 合勤科技 NSA320 双盘位网络存储器（NAS）　$59.99（约￥520）</a>，首发于<a href=\"http://www.smzdm.com\">什么值得买</a>。</p>", 
+  "title": "ZyXEL 合勤科技 NSA320 双盘位网络存储器（NAS）　$59.99（约￥520）"
+ }
+]
